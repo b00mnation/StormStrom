@@ -53,6 +53,7 @@ print("")
 quit()
 elif choice == 0:
 d3 = raw_input('Execute/Decline : ')
+os.system("clear")
 print("""
 B l a c k e y e
 """)
